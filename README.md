@@ -40,7 +40,7 @@
 > *TerminalFour does not have taxonomy support. TerminalFour customers rely on WordPress for taxonomy support, blogs, etc.*
 
 ## Restful API
-* All data in WordPress can be accessed via an API in JSON for applications, search tools, etc. without any extra work.
+* All data in WordPress can be accessed via an API in JSON for **applications**, **search tools**, etc. without any extra work.
 > *TerminalFour customers have no API to get data in or out. This has negative impacts on search capabilities, external application needs, and displaying data from one of your sites on other sites with ease.*
 
 ## Search engine optimization
